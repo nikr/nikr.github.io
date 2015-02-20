@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Test Post"
+modified:
+categories: [test,articles]
+excerpt: A test post to work out this jekyll stuff.
+tags: [test]
+date: 2015-02-20T12:45:49+13:00
+share: true
+---
+
+### Test Post.###
+This is to see if my `jekyll`/`github-pages`/`octopress` setup is working as it should be. So far I have figured out that `gem` is hideous.
+
+It turns out that when you use `bundle` to install octopress, it means that you have to use `bundle exec` to run it. 
