@@ -5,8 +5,8 @@ locale: en_NZ
 description: Random stuff on how I fixed things that went wrong on my computer. 
 logo: site-logo.png
 search: true
-# url: https://nikr.github.io
-url: http://localhost:4000
+url: https://nikr.github.io
+#url: http://localhost:4000
 
 # Jekyll configuration
 
